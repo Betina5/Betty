@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="14" passed="14">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Command line suite" duration-ms="26641" started-at="2021-05-27T17:19:18Z" finished-at="2021-05-27T17:19:45Z">
+    <groups>
+    </groups>
+    <test name="Command line test" duration-ms="26641" started-at="2021-05-27T17:19:18Z" finished-at="2021-05-27T17:19:45Z">
+      <class name="WindowPopupTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:WindowPopupTest@3d8c7aca]" name="setUp" is-config="true" duration-ms="2088" started-at="2021-05-27T17:19:41Z" finished-at="2021-05-27T17:19:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="testWindowPopup()[pri:0, instance:WindowPopupTest@3d8c7aca]" name="testWindowPopup" duration-ms="480" started-at="2021-05-27T17:19:43Z" finished-at="2021-05-27T17:19:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testWindowPopup -->
+        <test-method status="PASS" signature="testWindowPopupUsingContents()[pri:0, instance:WindowPopupTest@3d8c7aca]" name="testWindowPopupUsingContents" duration-ms="478" started-at="2021-05-27T17:19:43Z" finished-at="2021-05-27T17:19:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testWindowPopupUsingContents -->
+        <test-method status="PASS" signature="testWindowPopupUsingTitle()[pri:0, instance:WindowPopupTest@3d8c7aca]" name="testWindowPopupUsingTitle" duration-ms="421" started-at="2021-05-27T17:19:44Z" finished-at="2021-05-27T17:19:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testWindowPopupUsingTitle -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:WindowPopupTest@3d8c7aca]" name="tearDown" is-config="true" duration-ms="846" started-at="2021-05-27T17:19:44Z" finished-at="2021-05-27T17:19:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- WindowPopupTest -->
+      <class name="SelectTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:SelectTest@1a407d53]" name="setUp" is-config="true" duration-ms="2173" started-at="2021-05-27T17:19:34Z" finished-at="2021-05-27T17:19:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="testDropdown()[pri:0, instance:SelectTest@1a407d53]" name="testDropdown" duration-ms="618" started-at="2021-05-27T17:19:36Z" finished-at="2021-05-27T17:19:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testDropdown -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:SelectTest@1a407d53]" name="tearDown" is-config="true" duration-ms="738" started-at="2021-05-27T17:19:36Z" finished-at="2021-05-27T17:19:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:SelectTest@1a407d53]" name="setUp" is-config="true" duration-ms="2057" started-at="2021-05-27T17:19:37Z" finished-at="2021-05-27T17:19:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="testMultipleSelectList()[pri:0, instance:SelectTest@1a407d53]" name="testMultipleSelectList" duration-ms="825" started-at="2021-05-27T17:19:39Z" finished-at="2021-05-27T17:19:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testMultipleSelectList -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:SelectTest@1a407d53]" name="tearDown" is-config="true" duration-ms="725" started-at="2021-05-27T17:19:40Z" finished-at="2021-05-27T17:19:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- SelectTest -->
+      <class name="DragDropTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:DragDropTest@6aaa5eb0]" name="setUp" is-config="true" duration-ms="2314" started-at="2021-05-27T17:19:24Z" finished-at="2021-05-27T17:19:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="testDragDrop()[pri:0, instance:DragDropTest@6aaa5eb0]" name="testDragDrop" duration-ms="341" started-at="2021-05-27T17:19:26Z" finished-at="2021-05-27T17:19:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testDragDrop -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:DragDropTest@6aaa5eb0]" name="tearDown" is-config="true" duration-ms="738" started-at="2021-05-27T17:19:27Z" finished-at="2021-05-27T17:19:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- DragDropTest -->
+      <class name="FramesTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:FramesTest@3498ed]" name="setUp" is-config="true" duration-ms="2521" started-at="2021-05-27T17:19:27Z" finished-at="2021-05-27T17:19:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="testFrameByContents()[pri:0, instance:FramesTest@3498ed]" name="testFrameByContents" duration-ms="170" started-at="2021-05-27T17:19:30Z" finished-at="2021-05-27T17:19:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testFrameByContents -->
+        <test-method status="PASS" signature="testFrameByIndex()[pri:0, instance:FramesTest@3498ed]" name="testFrameByIndex" duration-ms="63" started-at="2021-05-27T17:19:30Z" finished-at="2021-05-27T17:19:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testFrameByIndex -->
+        <test-method status="PASS" signature="testFrameWithIdOrName()[pri:0, instance:FramesTest@3498ed]" name="testFrameWithIdOrName" duration-ms="200" started-at="2021-05-27T17:19:30Z" finished-at="2021-05-27T17:19:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testFrameWithIdOrName -->
+        <test-method status="PASS" signature="testIFrame()[pri:0, instance:FramesTest@3498ed]" name="testIFrame" duration-ms="2026" started-at="2021-05-27T17:19:30Z" finished-at="2021-05-27T17:19:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testIFrame -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:FramesTest@3498ed]" name="tearDown" is-config="true" duration-ms="1331" started-at="2021-05-27T17:19:32Z" finished-at="2021-05-27T17:19:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- FramesTest -->
+      <class name="AlertsTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:AlertsTest@13969fbe]" name="setUp" is-config="true" duration-ms="3565" started-at="2021-05-27T17:19:18Z" finished-at="2021-05-27T17:19:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="testConfirmAccept()[pri:0, instance:AlertsTest@13969fbe]" name="testConfirmAccept" duration-ms="318" started-at="2021-05-27T17:19:22Z" finished-at="2021-05-27T17:19:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testConfirmAccept -->
+        <test-method status="PASS" signature="testConfirmDismiss()[pri:0, instance:AlertsTest@13969fbe]" name="testConfirmDismiss" duration-ms="169" started-at="2021-05-27T17:19:22Z" finished-at="2021-05-27T17:19:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testConfirmDismiss -->
+        <test-method status="PASS" signature="testPrompt()[pri:0, instance:AlertsTest@13969fbe]" name="testPrompt" duration-ms="229" started-at="2021-05-27T17:19:23Z" finished-at="2021-05-27T17:19:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testPrompt -->
+        <test-method status="PASS" signature="testSimpleAlert()[pri:0, instance:AlertsTest@13969fbe]" name="testSimpleAlert" duration-ms="206" started-at="2021-05-27T17:19:23Z" finished-at="2021-05-27T17:19:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testSimpleAlert -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:AlertsTest@13969fbe]" name="tearDown" is-config="true" duration-ms="965" started-at="2021-05-27T17:19:23Z" finished-at="2021-05-27T17:19:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- AlertsTest -->
+    </test> <!-- Command line test -->
+  </suite> <!-- Command line suite -->
+</testng-results>
