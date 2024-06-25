@@ -40,6 +40,7 @@ public class AlertsTest {
 
 		} catch (NoAlertPresentException e) {
 			e.printStackTrace();
+
 		}
 	}
 	
